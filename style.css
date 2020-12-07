@@ -1,0 +1,14 @@
+style.css
+
+
+
+body{
+    background-color: #dfdfdf; 
+}
+
+.navbar navbar-expand-lg navbar-light bg-light 
+{
+    max-height: 50px; 
+	background-color: #918dca; 
+    font-size: 15px; 
+}
