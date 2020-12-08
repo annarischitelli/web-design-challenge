@@ -1,7 +1,5 @@
 style.css
 
-
-
 body{
     background-color: #dfdfdf; 
 }
@@ -12,3 +10,7 @@ body{
 	background-color: #918dca; 
     font-size: 15px; 
 }
+
+.comparison-page-header {
+        padding-left: 30px;
+      }
