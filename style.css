@@ -4,10 +4,9 @@ style.css
     background-color: #dfdfdf; 
 }
 
-.navbar navbar-expand-lg navbar-light bg-light 
-{
-    max-height: 50px; 
-	background-color: #918dca; 
+.navbar-custom {
+    max-height: 100px; 
+	background-color: #bbbbc0; 
     font-size: 15px; 
 }
 
