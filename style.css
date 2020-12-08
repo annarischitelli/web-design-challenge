@@ -10,17 +10,6 @@ style.css
 	background-color: #918dca; 
     font-size: 15px; 
 }
-.row{
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: 60px;
-    margin-left: -120px;
-}
-
-.box-header {
-        padding-left: 0px; 
-      }
 
 .image{
     padding-bottom: 20px;
