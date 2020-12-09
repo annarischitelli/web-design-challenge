@@ -31,6 +31,14 @@ style.css
 
 }
 
+.comparison-image:hover{
+    border: 3px solid #eff7fa; 
+}
+
+.col-md-6{
+    padding: 20px;
+}
+
 .comparison-main-image{
     max-width:80%;
     height:auto;
