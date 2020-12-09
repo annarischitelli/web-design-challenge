@@ -31,8 +31,8 @@ style.css
 }
 
 .comparison-main-image{
-    width: 500px;
-    height: 350px;
+    max-width:80%;
+    height:auto;
 }
 
 .comparison-header{
